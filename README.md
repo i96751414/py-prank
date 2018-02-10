@@ -1,4 +1,4 @@
-##py-prank
+## py-prank
 
 Just a small prank written in Python (Tkinter). Will you be able to answer correctly?
 
